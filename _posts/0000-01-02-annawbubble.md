@@ -1,5 +1,5 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: slide 1
+title: "Hello! Welcome to the first slide!"
 ---
-bt
+
